@@ -1,0 +1,13 @@
+Tipo,Código,Turnos Máximos,Capacidade por turno,,Turno,Dia,Horário,,Turno,Psicólogo,Psiquiatra,Psicanalista
+Psicólogo,PS1-5,6,3,,T1,Segunda,Manhã,,T1,10,3,2
+Psiquiatra,PQ1-3,4,2,,T2,Segunda,Tarde,,T2,18,4,2
+Psicanalista,PA1-2,3,1.5,,T3,Terça,Manhã,,T3,12,5,4
+,,,,,T4,Terça,Tarde,,T4,20,7,3
+,,,,,T5,Quarta,Manhã,,T5,13,5,2
+,,,,,T6,Quarta,Tarde,,T6,15,6,3
+,,,,,T7,Quinta,Manhã,,T7,14,5,1
+,,,,,T8,Quinta,Tarde,,T8,19,8,4
+,,,,,T9,Sexta,Manhã,,T9,11,3,3
+,,,,,T10,Sexta,Tarde,,T10,16,4,2
+,,,,,T11,Sábado,Manhã,,T11,17,6,4
+,,,,,T12,Sábado,Tarde,,T12,12,4,3
